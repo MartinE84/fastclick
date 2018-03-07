@@ -1,0 +1,22 @@
+{
+  "name": "fastclick",
+  "main": "lib/fastclick.js",
+  "ignore": [
+    "**/.*",
+    "component.json",
+    "package.json",
+    "Makefile",
+    "tests",
+    "examples"
+  ],
+  "homepage": "https://github.com/nesiri/fastclick",
+  "_release": "4b5ee89274",
+  "_resolution": {
+    "type": "branch",
+    "branch": "fix-google-places",
+    "commit": "4b5ee89274ce22d8c29dbe28f9f7c8590ea8179b"
+  },
+  "_source": "https://github.com/nesiri/fastclick.git",
+  "_target": "fix-google-places",
+  "_originalSource": "git+https://github.com/nesiri/fastclick.git"
+}
